@@ -1,0 +1,33 @@
+:root {
+    // Colors
+    --color-primary: #2196f3;
+    --color-on-primary: white;
+    --color-on-background: #333;
+
+    // Spacing
+    --space-small: 8px;
+    --space-medium: 16px;
+    --space-large: 32px;
+
+    // Padding
+    --padding-small: 4px;
+    --padding-medium: 8px;
+    --padding-large: 12px;
+
+    // Shapes
+    --shape-small: 8px;
+    --shape-medium: 16px;
+    --shape-large: 32px;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    color: var(--color-on-background);
+}
+
+a {
+    color: inherit;
+}

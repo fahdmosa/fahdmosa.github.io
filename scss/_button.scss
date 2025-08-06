@@ -1,0 +1,7 @@
+.button {
+    display: inline-flex;
+    padding: var(--padding-small);
+    background-color: var(--color-primary);
+    color: var(--color-on-primary);
+    border-radius: var(--shape-small);
+}

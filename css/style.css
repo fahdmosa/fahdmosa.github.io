@@ -2,3 +2,9 @@ html {
   font-family: "Beiruti";
   font-size: normal;
 }
+
+body {
+  background-color: #fafafa;
+  max-width: 600px;
+  margin: auto;
+}
